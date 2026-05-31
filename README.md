@@ -1,6 +1,6 @@
 # Cosmos
 
-A premium macOS desktop background manager built with **PyQt6** and **PyQtWebEngine**. Cosmos lets you import images, GIFs, and videos into a personal library and apply them as wallpapers with a single click.
+A macOS desktop background manager built with **PyQt6** and **PyQtWebEngine**. Cosmos lets you import images, GIFs, and videos into a personal library and apply them as wallpapers with a single click.
 
 ![Cosmos](https://img.shields.io/badge/platform-macOS-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-green)
